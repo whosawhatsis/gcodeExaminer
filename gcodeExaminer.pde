@@ -2,9 +2,8 @@
 // based on gcode3b by peter jansen
 // g-code visualizer for toolpaths expored from skeinforge for the reprap/makerbot.  
 // please feel free (and encouraged) to modify.  if you do, please post your modifications
-// to the reprap forum post: 
-// http://dev.forums.reprap.org/read.php?12,27884
-// best of luck, and happy tinkering!
+// as a fork on Github.
+// https://github.com/whosawhatsis/gcodeExaminer
 
 
 
